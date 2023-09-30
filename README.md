@@ -4,7 +4,7 @@
 Abdul-Aziz Nassor
 
 ## Description
-A bank ATM system created in C++ that allows users to log in and use the ATM using their credit card, and can use banking services such as withdrawing cash, depositing cash into the account, and checking transaction history. It has a security system that checks the credit card's pin before letting the user use any banking services on it. It also logs every transaction done on the account for security purposes. Finally, this system allows multiple credit cards to be linked to the user.
+A bank ATM system created in C++ that allows users to log in to the ATM using their credit card, and can use banking services such as withdrawing cash, depositing cash into the account, and checking transaction history. It has a security system that checks the credit card's pin before letting the user use any banking services on it, and it also logs every transaction done on the account for security purposes.
 
 ## What I learnt
 * C++
