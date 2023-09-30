@@ -22,4 +22,4 @@ Afterwards, open bash, locate the destinated file with 'cd', and use git clone o
 git clone https://github.com/aanassor1/Bank-ATM-System.git
 ```
 
-Once the repository is installed, open Bank.cpp and assign a logs folder path. After, compile the .cpp and .h files then run the .exe program. Look at main.cpp for card details.
+Once the repository is installed, open Bank.cpp and assign a logs folder path. After, compile the .cpp and .h files then run the .exe program. Look at main.cpp for account/credit card details to use for the program.
